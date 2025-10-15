@@ -21,8 +21,8 @@ The dashboard provides key insights into content types, country-wise distributio
 - Continuous release of titles across multiple decades.
 
 ## How to Access
-- View the interactive version on **Tableau Public** [(https://public.tableau.com/app/profile/abhi.b.h/viz/Book3_17605402202260/Dashboard1?publish=yes)].  
-
+- View the interactive version on **Tableau Public** (https://public.tableau.com/app/profile/abhi.b.h/viz/Book3_17605402202260/Dashboard1?publish=yesadd your link here).  
+- Repository includes images and the Tableau workbook file (`.twbx`).
 
 ## Author
 Developed by [Your Name]  
